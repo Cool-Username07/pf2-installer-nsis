@@ -165,7 +165,7 @@ Section "Updater" secUpdater
 			Abort	
 		
 		PF2BuildNotFound:
-			MessageBox MB_OK "This directory is not a pf2 build folder! Relaunch the updater again and select a pf2 folder to update!"
+			MessageBox MB_OK "This directory is not a PF2 build folder! Relaunch the updater again and select a PF2 folder to update!"
 			Abort
 			
 		FinishedUpdating:
